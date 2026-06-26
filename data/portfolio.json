@@ -1,0 +1,78 @@
+[
+  {
+    "slug": "brightvolt",
+    "niche": "Electrician",
+    "title": "BrightVolt Electrical Services",
+    "tagline": "24/7 Emergency Service + Project Gallery",
+    "description": "Multi-page site with service showcase, project gallery, customer reviews, and prominent call CTAs for urgent electrical needs.",
+    "image": "https://picsum.photos/seed/brightvolt1/800/500",
+    "liveUrl": "https://brightvolt-electrician.vercel.app",
+    "buildTime": "3 weeks",
+    "pages": 6,
+    "features": ["Service Pages", "Project Gallery", "Reviews", "Emergency CTA"],
+    "challenge": "Outdated site losing visibility and failing to convert emergency nighttime calls. Previous design was hard to read on mobile devices.",
+    "solution": "Modern, mobile-first rebuild focusing on one primary CTA: getting the phone to ring. Separated standard service pages from emergency dispatch to match customer intent.",
+    "screenshots": [
+      { "src": "https://picsum.photos/seed/brightvolt2/800/500", "alt": "Homepage with emergency banner" },
+      { "src": "https://picsum.photos/seed/brightvolt3/800/500", "alt": "Services listing page" },
+      { "src": "https://picsum.photos/seed/brightvolt4/800/500", "alt": "Project gallery and reviews" }
+    ]
+  },
+  {
+    "slug": "flowworks",
+    "niche": "Plumber",
+    "title": "FlowWorks Plumbing (Dallas, TX)",
+    "tagline": "Multi-Service Site + Verified Reviews",
+    "description": "Service pages for each plumbing specialty, verified review section, service-area map, and same-day dispatch messaging to reduce response friction.",
+    "image": "https://picsum.photos/seed/flowworks1/800/500",
+    "liveUrl": "https://flow-plumbing-eight.vercel.app",
+    "buildTime": "4 weeks",
+    "pages": 8,
+    "features": ["Specialty Service Pages", "Verified Review Sync", "Interactive Service Area Map", "Click-to-Call Buttons"],
+    "challenge": "Customer was losing bids because their website didn't list specific specialties (e.g., tankless water heaters) clearly, making users bounce back to search.",
+    "solution": "Created dedicated service pages for each high-value offering, establishing local relevance. Integrated real reviews to build immediate trust.",
+    "screenshots": [
+      { "src": "https://picsum.photos/seed/flowworks2/800/500", "alt": "Homepage hero showing same-day dispatch" },
+      { "src": "https://picsum.photos/seed/flowworks3/800/500", "alt": "Tankless Water Heater service page" },
+      { "src": "https://picsum.photos/seed/flowworks4/800/500", "alt": "Contact and Service Area section" }
+    ]
+  },
+  {
+    "slug": "arcticbreeze",
+    "niche": "HVAC",
+    "title": "Arctic Breeze HVAC",
+    "tagline": "Seasonal Services + Emergency Dispatch",
+    "description": "HVAC-specific messaging (seasonal promotions, emergency availability), service-area coverage, and heating/cooling split to match customer search intent.",
+    "image": "https://picsum.photos/seed/arcticbreeze1/800/500",
+    "liveUrl": "https://arctic-hvac.vercel.app",
+    "buildTime": "3 weeks",
+    "pages": 5,
+    "features": ["Heating/Cooling Split Routing", "Seasonal Promo Banners", "Financing Info Section", "Fast-Load Architecture"],
+    "challenge": "Client needed a way to dynamically shift focus between AC repair in the summer and Heating in the winter without redesigning the site.",
+    "solution": "Built a modular homepage that allows the owner to swap the primary hero messaging based on the season, directly addressing immediate weather-related pain points.",
+    "screenshots": [
+      { "src": "https://picsum.photos/seed/arcticbreeze2/800/500", "alt": "Summer AC Repair Hero Section" },
+      { "src": "https://picsum.photos/seed/arcticbreeze3/800/500", "alt": "Heating Replacement Page" },
+      { "src": "https://picsum.photos/seed/arcticbreeze4/800/500", "alt": "Financing & Payment Plans" }
+    ]
+  },
+  {
+    "slug": "terrabloom",
+    "niche": "Landscaping",
+    "title": "Terra & Bloom Landscapes",
+    "tagline": "Premium Portfolio + High-End Clientele",
+    "description": "Portfolio-focused design for upscale landscaping. Image-heavy, refined typography, and emphasis on craftsmanship and long-term relationships with clients.",
+    "image": "https://picsum.photos/seed/terrabloom1/800/500",
+    "liveUrl": "https://terra-bloom-one.vercel.app",
+    "buildTime": "4 weeks",
+    "pages": 6,
+    "features": ["High-Res Project Portfolios", "Subtle Animations", "Consultation Intake Form", "Service Breakdown"],
+    "challenge": "Client was tired of getting low-budget mowing inquiries and wanted to position themselves exclusively for high-end hardscaping and landscape design projects.",
+    "solution": "Shifted visual language to a more editorial, high-end look using ample negative space, elegant typography, and large photography to filter for premium clients.",
+    "screenshots": [
+      { "src": "https://picsum.photos/seed/terrabloom2/800/500", "alt": "Editorial-style homepage" },
+      { "src": "https://picsum.photos/seed/terrabloom3/800/500", "alt": "Hardscaping portfolio gallery" },
+      { "src": "https://picsum.photos/seed/terrabloom4/800/500", "alt": "Detailed consultation intake form" }
+    ]
+  }
+]
